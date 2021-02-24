@@ -4,7 +4,7 @@
 
 📚 • I am currently learning
 data structures and
-algorithms in C and some
+algorithms in C/C++ and some
 Front-End technologies, like
 HTML5 and CSS3.
 
