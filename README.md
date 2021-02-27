@@ -4,7 +4,8 @@
 
 📚 • I am currently learning C and C++ programming languages and basic concepts about 
 
-✉️ • E-mail: hdanrlley1@gmail.com
+✉️ • E-mail: hdanrlley1@gmail.com 
+
 📫 • LinkedIn: https://www.linkedin.com/in/hicaromiguel/ 
 
 
