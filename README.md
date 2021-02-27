@@ -1,14 +1,11 @@
 
-🍀 • Hi, my name is Hícaro.
+🍀 • Hi, my name is Hícaro and I'm a Computer Science student
 
 
-📚 • I am currently learning
-data structures and
-algorithms in C/C++ and some
-Front-End technologies, like
-HTML5 and CSS3.
+📚 • I am currently learning C and C++ programming languages and basic concepts about 
 
-📭 • Contact: hdanrlley1@gmail.com or you can find me on LinkedIn: https://www.linkedin.com/in/hicaromiguel/
+✉️ • E-mail: hdanrlley1@gmail.com
+📫 • LinkedIn: https://www.linkedin.com/in/hicaromiguel/ 
 
 
 
