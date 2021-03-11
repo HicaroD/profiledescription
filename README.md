@@ -8,3 +8,4 @@
 
 📫 • LinkedIn: https://www.linkedin.com/in/hicaromiguel/ 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HicaroD&show_icons=true&theme=radical)
