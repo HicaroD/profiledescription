@@ -2,7 +2,7 @@
 🍀 • Hi, my name is Hícaro and I'm a Computer Science student
 
 
-📚 • I am currently learning C and C++ programming languages and concepts about data structures and algorithms 
+📚 • I am currently learning <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></img> and <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></img> and concepts about data structures and algorithms 
 
 
 
