@@ -2,7 +2,7 @@
 🍀 • Hi, my name is Hícaro and I'm a Computer Science student
 
 
-📚 • I am currently learning <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></img> and <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></img> and concepts about data structures and algorithms 
+📚 • I am currently learning <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></img>, <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></img>, <img src ="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></img> and concepts about data structures and algorithms 
 
 
 
@@ -12,5 +12,6 @@
 <a href = "https://www.linkedin.com/in/hicaromiguel/" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HicaroD&show_icons=true&theme=radical)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HicaroD&show_icons=true&theme=radical) ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=HicaroD&theme=blue-green)
+
 
