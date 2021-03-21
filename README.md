@@ -1,5 +1,8 @@
 
-🍀 • Hi, my name is Hícaro and I'm a Computer Science student
+🍀 • Hi, my name is Hícaro and I’m 17 years old
+
+
+📚 • I'm a Computer Science student
 
 
 📚 • I am currently learning <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></img>, <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></img>, <img src ="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></img> and concepts about data structures and algorithms 
