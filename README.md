@@ -1,8 +1,10 @@
 # Hícaro Dânrlley
-🍀 • I’m 17 years old and self-taught back-end developer since January 2021 
+
+## 🤗 • About me: 
+I’m 17 years old and self-taught back-end developer since January 2021 and I'll be a Computer Science student this year
 
 
-## 💻 Technologies:
+## 💻 • Technologies:
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></img> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></img> <img src ="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></img>
 
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=HicaroD&theme=blue-green)
