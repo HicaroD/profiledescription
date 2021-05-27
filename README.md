@@ -2,7 +2,7 @@
 
 <div align="center">
      <h2 align="center"> 🧑‍🦱 • About me </h2>
-     <p> <b>My name is Hícaro Dânrlley</b>, I’m 17 years old and self-taught back-end developer. I'm currently working on personal open source projects since January 2021.</p>
+     <p> <b>My name is Hícaro Dânrlley</b>, I’m 17 years old and a Computer Science student at Universade Federal de Alagoas (UFAL). I'm currently working on personal open source projects since January 2021.</p>
      <p> I like to work with people who have the same focus and dedication to achieve the goals and solve problems and hard puzzles in programming.
 </div>
 
