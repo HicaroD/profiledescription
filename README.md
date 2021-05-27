@@ -2,8 +2,8 @@
 
 <div align="center">
      <h2 align="center"> 🧑‍🦱 • About me </h2>
-     <p> <b>My name is Hícaro Dânrlley</b>, I’m 17 years old and self-taught back-end developer working on personal open source projects since anuary 2021. I love gaming with friends and tech stuffs, such as Computer Science and Software engineering. </p>
- 
+     <p> <b>My name is Hícaro Dânrlley</b>, I’m 17 years old and self-taught back-end developer. I'm currently working on personal open source projects since January 2021.</p>
+     <p> I like to work with people who have the same focus and dedication to achieve the goals and solve problems and hard puzzles in programming.
 </div>
 
 <div align="center">
@@ -17,13 +17,14 @@
 
   <p>
    <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   <img height="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
+   <img height="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg"> 
    <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
    <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
    <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
    <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg">
   </p>
- <p> <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=HicaroD&theme=blue> </p>
+     
+  <p> <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=HicaroD&theme=blue> </p>
  
 
 <h2> 📫 • Contact</h2>  
