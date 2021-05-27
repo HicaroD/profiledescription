@@ -1,24 +1,33 @@
-# Hícaro Dânrlley
+<h2>Hey there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h2> 
 
-## 🤗 • About me: 
-I’m 17 years old and self-taught back-end developer since January 2021. I love gaming with friends and tech stuffs, such as Computer Science and Software engineering.
-
-
-## 💻 • Technologies:
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></img> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></img> <img src ="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></img>
-
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=HicaroD&theme=blue-green) [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=HicaroD&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
-
-
-## 📫 • Contact: 
-
-<a href = "mailto:hdanrlley1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a> 
-<a href = "https://www.linkedin.com/in/hicaromiguel/" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href = "https://www.instagram.com/hicarodm/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-
-
-
-
-
+<div align="center">
+     <h2 align="center"> 🧑‍🦱 • About me </h2>
+     <p> <b>My name is Hícaro Dânrlley</b>, I’m 17 years old and self-taught back-end developer working on personal open source projects since anuary 2021. I love gaming with friends and tech stuffs, such as Computer Science and Software engineering. </p>
  
+</div>
+
+<div align="center">
+  <p> <img src=https://github-readme-streak-stats.herokuapp.com/?user=HicaroD&theme=blue)](https://github.com/DenverCoder1/github-readme-streak-stats></p>
+
+  <p> <img src=https://komarev.com/ghpvc/?username=HicaroD></p>
+</div>
+
+<div align=center>
+  <h2> 💻 • Technologies</h2>
+
+  <p>
+   <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   <img height="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
+   <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+   <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+   <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+   <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg">
+  </p>
+ <p> <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=HicaroD&theme=blue> </p>
+ 
+
+<h2> 📫 • Contact</h2>  
+   <a href = "mailto:hdanrlley1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a> 
+   <a href = "https://www.linkedin.com/in/hicaromiguel/" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+   <a href = "https://www.instagram.com/hicarodm/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+ </div>
